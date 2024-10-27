@@ -1,4 +1,5 @@
 # install
+
 Installation document
 
 <table>
@@ -16,4 +17,9 @@ Installation document
         <td><img height="28" src="https://skillicons.dev/icons?i=azure" /></td>
         <td>Azure CLI</td>
         <td>📖 <a href="https://learn.microsoft.com/en-us/cli/azure/install-azure-cli">Visit</a></td>
+    </tr>
+    <tr>
+        <td><img height="28" src="https://skillicons.dev/icons?i=docker" /></td>
+        <td>Docker</td>
+        <td>📖 <a href="https://docs.docker.com/engine/install/">Visit</a></td>
     </tr>
