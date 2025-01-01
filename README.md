@@ -23,3 +23,8 @@ Installation document
         <td>Docker</td>
         <td>📖 <a href="https://docs.docker.com/engine/install/">Visit</a></td>
     </tr>
+    <tr>
+        <td><img height="28" src="https://rancherdesktop.io/images/icon-rancher-desktop.svg" /></td>
+        <td>Rancher Desktop</td>
+        <td>📖 <a href="https://rancherdesktop.io/">Visit</a></td>
+    </tr>
